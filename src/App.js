@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hi There. Uri I am running with docker compose!!!
         </a>
       </header>
     </div>
