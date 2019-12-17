@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi There. Rebuilding docker with travis and elasticbeanstalk!!!
+          We are deploying a react app with docker, travis and elasticbeanstalk!!!
         </a>
       </header>
     </div>
