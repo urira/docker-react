@@ -10,10 +10,10 @@ deploy:
         edge: true
         provider: elasticbeanstalk
         region: "eu-west-1"
-        app: "uri-docker-react"
-        env: "UriDockerReact-env"
+        app: "docker-react-app"
+        env: "DockerReactApp-env"
         bucket_name: "elasticbeanstalk-eu-west-1-742434153745"
-        bucket_path: "uri-docker-react"
+        bucket_path: "docker-react-app"
         on:
                 branch: master
         access_key_id: "$AWS_ACCESS_KEY_ID"
